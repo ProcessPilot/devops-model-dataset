@@ -1,0 +1,6 @@
+[
+    {
+        "Instruct": "Explain the activities carried out during coding phase in the DevOps process model.",
+        "Output": "During the coding phase, developers write and commit code changes to a shared version control repository, such as Git. Code is reviewed collaboratively, ensuring that it adheres to coding standards, follows best practices, and is well-documented. The goal is to maintain code quality and consistency." 
+    }
+]
